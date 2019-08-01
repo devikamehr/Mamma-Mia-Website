@@ -1,0 +1,32 @@
+/* Don't want to change my background color as I love my lil gif*/
+/* Mamma Mia CSS! */
+h1 {
+    color: cornsilk;
+    background-color: pink;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 0.5em;
+    font-weight: bold;
+
+}
+
+p {
+    color: white;
+    background-color:pink;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 2em;
+}
+#why {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#Amanda {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.singer {
+    background-color: wheat;
+    text-decoration: underline;
+}
